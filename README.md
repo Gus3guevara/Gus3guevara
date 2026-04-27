@@ -3,7 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,html,css,js,cs" height="60" alt="tech icons" />
+  <img src="https://skillicons.dev/icons?i=py,java,html,css,js,cs,c" height="60" alt="tech icons" />
+  <img src="https://img.shields.io/badge/Siemens_Ladder-009999?style=for-the-badge&logo=siemens&logoColor=white" height="60" alt="Siemens Ladder" />
 </div>
 
 ###
